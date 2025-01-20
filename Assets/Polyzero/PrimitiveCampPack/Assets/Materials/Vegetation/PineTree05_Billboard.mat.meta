@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 250513ed0b39388469e0a3d32e98e3c2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 287035
+  packageName: Primitive Environment Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/Polyzero/PrimitiveCampPack/Assets/Materials/Vegetation/PineTree05_Billboard.mat
+  uploadId: 675430

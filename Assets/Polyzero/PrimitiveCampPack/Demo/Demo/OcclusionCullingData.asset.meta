@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f8220c083bc3d4044847ca3125f6be40
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 36300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 287035
+  packageName: Primitive Environment Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/Polyzero/PrimitiveCampPack/Demo/Demo/OcclusionCullingData.asset
+  uploadId: 675430

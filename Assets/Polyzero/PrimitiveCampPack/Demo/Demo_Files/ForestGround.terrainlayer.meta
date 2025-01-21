@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b2b30a40f3ed6254ea5d51096b64deb7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 287035
+  packageName: Primitive Environment Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/Polyzero/PrimitiveCampPack/Demo/Demo_Files/ForestGround.terrainlayer
+  uploadId: 675430

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0261707d3d05d0a458ec0dab8fcd4e29
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 287035
+  packageName: Primitive Environment Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/Polyzero/PrimitiveCampPack/Demo/Demo/Lighting Settings.lighting
+  uploadId: 675430

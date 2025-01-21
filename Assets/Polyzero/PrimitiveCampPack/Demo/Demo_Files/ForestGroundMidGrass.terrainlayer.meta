@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a920b80ae274fd4bb98f7ce96ba5dcf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 287035
+  packageName: Primitive Environment Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/Polyzero/PrimitiveCampPack/Demo/Demo_Files/ForestGroundMidGrass.terrainlayer
+  uploadId: 675430

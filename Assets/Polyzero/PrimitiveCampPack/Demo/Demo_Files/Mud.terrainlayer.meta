@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d28dd4c5ca41d045a5a5a3ffa201b75
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 287035
+  packageName: Primitive Environment Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/Polyzero/PrimitiveCampPack/Demo/Demo_Files/Mud.terrainlayer
+  uploadId: 675430
